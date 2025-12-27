@@ -40,4 +40,4 @@ jobs:
         with:
           commit_message: "chore: update Cloudflare IP list (2 sites)"
           file_pattern: |
-            cloudflare_ipv4.txt
+            cloudflare优选ip
