@@ -4,3 +4,8 @@
 
 https://github.com/Alvin9999-newpac/fanqiang/wiki
 
+## ⭐ Star 增长趋势
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Alvin9999-newpac/fanqiang&type=Date)](https://star-history.com/#Alvin9999-newpac/fanqiang&Date)
+
+
